@@ -6,7 +6,7 @@
 //	int info;
 //	node *link;
 //};
-//
+////
 //node *front, *rear;
 //void init()
 //{

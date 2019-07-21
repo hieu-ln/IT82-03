@@ -10,7 +10,7 @@
 ////đỉnh kiểu node
 //node *sp;
 //
-//
+////
 //void init()
 //{
 //	sp = NULL;

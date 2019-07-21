@@ -9,7 +9,7 @@
 //	front = -1;
 //	rear = -1;
 //}
-//
+////
 //void xuat(int a[], int front, int rear)
 //{
 //	cout << " <-- ";

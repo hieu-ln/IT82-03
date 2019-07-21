@@ -15,7 +15,7 @@
 //{
 //	first = NULL;
 //}
-//
+////
 //void list()
 //{
 //	node *p = first;

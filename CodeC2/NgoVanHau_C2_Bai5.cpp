@@ -43,7 +43,7 @@
 //		return 1;
 //	}
 //}
-//
+////
 //int main()
 //{
 //	int temp,x,i;

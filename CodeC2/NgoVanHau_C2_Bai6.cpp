@@ -27,7 +27,7 @@
 //
 //	return x;
 //}
-//
+////
 //int main()
 //{
 //	int temp,x,sodu,i;
